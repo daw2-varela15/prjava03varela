@@ -33,8 +33,8 @@ public class Prjava03varela extends Frame
         // "this" Frame fires WindowEvent its registered WindowEvent listener 
         // "this" Frame adds "this" object as a WindowEvent listener 
  
-      setTitle("prjava03");  // "this" Frame sets title 
-      setSize(250, 100);        // "this" Frame sets initial size 
+      setTitle("nova finestra prjava03varela");  // "this" Frame sets title 
+      setSize(450, 100);        // "this" Frame sets initial size 
       setVisible(true);         // "this" Frame shows 
    } 
  
